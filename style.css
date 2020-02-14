@@ -1,0 +1,36 @@
+body {
+    font-family:Google Sans;
+    background:whitesmoke;
+}
+#header {
+    background:whitesmoke;
+    overflow:auto;
+    color:grey;
+text-align:left;
+}
+#header a {
+    color:grey;
+
+}
+#container {
+    background:url("group.jpeg");
+   text-align:center;
+   color:white;
+}
+.maintext {
+    font-size:60px;
+}
+#tps {
+    color:black;
+    cursor:default;
+}
+#logo {
+    text-decoration: none;
+}
+.learn {
+    border:none;
+    height:40px;
+    width:160px;
+    font-size:22px;
+    background:none;
+}
